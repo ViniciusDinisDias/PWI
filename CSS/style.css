@@ -1,0 +1,40 @@
+body {
+  background-image: url('https://static.vecteezy.com/ti/fotos-gratis/p1/29894263-o-circuito-programacao-fundo-foto.jpg');
+    background-size: cover;
+    text-align: center;
+}
+button {
+    margin-top: 20px;
+    padding: 20px 40px;
+    font-size: 24px;
+    margin-top: 50px;
+}
+h1 {
+  color:azure;
+  font-size: 5opx;
+
+}
+h2 {
+  color: azure;
+}
+img {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    display: block;
+    top: 20px
+}
+table {
+  margin-top: 40px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+th, td {
+  border: 1px solid azure;
+  padding: 8px;
+  text-align: center;
+  color: azure;
+  font-size: 20px;
+}
